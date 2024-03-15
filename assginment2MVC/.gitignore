@@ -6,6 +6,13 @@
 # dotenv files
 .env
 
+./add.db
+./add.db-shm
+./add.db-wal
+
+./bin/
+./obj/
+
 # User-specific files
 *.rsuser
 *.suo

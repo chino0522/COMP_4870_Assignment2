@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using assginment2MVC.Data;
+using assignment2Library.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
