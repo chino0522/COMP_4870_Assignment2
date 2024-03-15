@@ -10,8 +10,8 @@
 ./add.db-shm
 ./add.db-wal
 
-./bin/
-./obj/
+bin/
+obj/
 
 # User-specific files
 *.rsuser
